@@ -20,5 +20,5 @@ Here are some ideas to get you started:
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hello CatZhang!&center=true&size=27" alt="Typing SVG" />
   </div>
 
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" /><br>
+  <img width="500px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" /><br>
 </div>

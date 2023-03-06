@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </div>
 <p>&emsp;&emsp;🌱Hello everyone, I'm CatZhang~</p>
-<p>&emsp;&emsp;🔭Currently working on full stack development~</p>
+<p>&emsp;&emsp;🔭Now trying to become a full stack engineer~</p>
 <p>&emsp;&emsp;😄Love computer science and inspire to become a senior programmer~</p>
 <p>&emsp;&emsp;👯We're making the world a better place, through constructing elegant hierarchies for maximum code reuse and extensibility~</p>
 <p>&emsp;&emsp;🌝I don't like to write code, I just write the rules of survival in the future world~</p>
@@ -48,4 +48,14 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=CrazyCatZhang&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrazyCatZhang&theme=github-dark-blue&hide_border=true" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+</div>
+
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" /> 
+  
+    💪 正在学习
 </div>

@@ -18,26 +18,27 @@ Here are some ideas to get you started:
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hello I'm CatZhang!&center=true&size=27" alt="Typing SVG" />
   </div>
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />       
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />    
+  
+  <a href="https://www.youtube.com/channel/UCnObkaz4PSffWw9V2iYpRMQ"><img width="60px" alt="Youtube" title="Youtube" src="youtube.svg"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/CrazyCatZhang/"><img width="65px" alt="Twitter" title="Twitter" src="twitter.svg"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/profile.php?id=100079099283260"><img width="63px" alt="Facebook" title="Facebook" src="icon_facebook.svg"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/profile.php?id=100079099283260"><img width="65px" alt="Zhihu" title="Zhihu" src="zhihu.svg"/></a>
 </div>
 
+<br>
+<h3 align="center"> 🤔 About me 👨‍💻 </h3>
 <div align="center">
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> 
 </div>
-<h3 align="center"> 🤔 About me 👨‍💻 </h3>
 <p>&emsp;&emsp;🌱Hello everyone, I'm CatZhang~</p>
 <p>&emsp;&emsp;💯Now trying to become a full stack engineer~</p>
 <p>&emsp;&emsp;😄Love computer science and inspire to become a senior programmer~</p>
 <p>&emsp;&emsp;👯We're making the world a better place, through constructing elegant hierarchies for maximum code reuse and extensibility~</p>
 <p>&emsp;&emsp;🌝I don't like to write code, I just write the rules of survival in the future world~</p>
-
-<div align="center">
-   <h4>Social Account</h4>
-   <a href="https://twitter.com/CrazyCatZhang/"><img src="https://img.shields.io/badge/Twitter-blue" /></a>&emsp;
-   <a href="https://www.youtube.com/channel/UCnObkaz4PSffWw9V2iYpRMQ"><img src="https://img.shields.io/badge/YouTube-c32136" /></a>&emsp;
-   <a href="https://www.zhihu.com/people/zhang-tao-49-74"><img src="https://img.shields.io/badge/Zhihu-blue" /></a>&emsp;
-   <a href="https://www.facebook.com/profile.php?id=100079099283260"><img src="https://img.shields.io/badge/Facebook-blue" /></a>&emsp;
-</div>
   
 <div align="center">
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />

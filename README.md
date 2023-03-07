@@ -59,5 +59,13 @@ Here are some ideas to get you started:
   
   <h3>:fish_cake: Technology Stack</h3>
   
-  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,ts,bootstrap,jquery,nodejs,mongodb,mysql,git,webpack,react,vue" /><br>
+  <img src="https://skillicons.dev/icons?i=java,cpp" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts" /><br>
+  <img src="https://skillicons.dev/icons?i=react,vue,redux,vite,bootstrap,jquery" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,nginx,mongodb,mysql,git,gulp,webpack" /><br>
+  
+  <h3>:toolbox: Common Tools</h3>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,atom,codepen,postman,vim,stackoverflow,docker,kubernetes,github,ai,ps" /><br>
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>

@@ -34,9 +34,11 @@
 <div align="center">
   <a href="https://github.com/CrazyCatZhang">
      <img align="center" width="433px" height="155px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CrazyCatZhang&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
-     <img align="center" height="155px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CrazyCatZhang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
-
+     <img align="center" height="155px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CrazyCatZhang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <br>
+  <br>
   <img width="867px" src="profile-3d-contrib/profile-night-rainbow.svg" />
+  <br>
   <br>
   <img width="867px" src="https://github-readme-activity-graph.cyclic.app/graph?username=CrazyCatZhang&theme=react-dark&hide_title=true" />
   </a>
@@ -63,4 +65,16 @@
   <br>
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
   
+</div>
+
+<br>
+<div align="center">
+  <h3><img src="others.svg" width="40" style="vertical-align:bottom;">  &nbsp; Others</h3>
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+</div>
+
+<br>
+<div align="center">
+  <img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card"/>
 </div>

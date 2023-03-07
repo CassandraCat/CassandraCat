@@ -18,13 +18,13 @@ Here are some ideas to get you started:
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hello I'm CatZhang!&center=true&size=27" alt="Typing SVG" />
   </div>
 
-  <img width="35%" src="animation.gif" />       
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />       
 </div>
 
-<h3 align="center"> 🤔 About me 👨‍💻 </h3>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> 
 </div>
+<h3 align="center"> 🤔 About me 👨‍💻 </h3>
 <p>&emsp;&emsp;🌱Hello everyone, I'm CatZhang~</p>
 <p>&emsp;&emsp;💯Now trying to become a full stack engineer~</p>
 <p>&emsp;&emsp;😄Love computer science and inspire to become a senior programmer~</p>
@@ -40,18 +40,18 @@ Here are some ideas to get you started:
 </div>
   
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </div>
 
 <div align="center">
   <a href="https://github.com/CrazyCatZhang">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=CrazyCatZhang&show_icons=true&theme=github_dark&hide_border=true" />
-    <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=CrazyCatZhang&theme=github-dark-blue&hide_border=true" />
+     <img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CrazyCatZhang&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+     <img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CrazyCatZhang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </div>
 
 <div align="center">

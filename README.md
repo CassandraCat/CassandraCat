@@ -3,7 +3,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hello I'm CatZhang!&center=true&size=27" alt="Typing SVG" />
   </div>
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />    
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="opacity: 0;"/>    
   
   <a href="https://www.youtube.com/channel/UCnObkaz4PSffWw9V2iYpRMQ"><img width="60px" alt="Youtube" title="Youtube" src="youtube.svg"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;

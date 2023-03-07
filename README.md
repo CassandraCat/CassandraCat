@@ -1,18 +1,3 @@
-<!--
-**CrazyCatZhang/CrazyCatZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
   <div align="center">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hello I'm CatZhang!&center=true&size=27" alt="Typing SVG" />
@@ -30,28 +15,36 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<h3 align="center"> 🤔 About me 👨‍💻 </h3>
+<h3 align="center"><img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40" style="vertical-align:bottom;"> &nbsp;About me </h3>
 <div align="center">
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> 
 </div>
-<p>&emsp;&emsp;🌱Hello everyone, I'm CatZhang~</p>
-<p>&emsp;&emsp;💯Now trying to become a full stack engineer~</p>
-<p>&emsp;&emsp;😄Love computer science and inspire to become a senior programmer~</p>
-<p>&emsp;&emsp;👯We're making the world a better place, through constructing elegant hierarchies for maximum code reuse and extensibility~</p>
-<p>&emsp;&emsp;🌝I don't like to write code, I just write the rules of survival in the future world~</p>
+<br>
+<p>&emsp;&emsp;:octocat: Hello, I'm CatZhang~</p>
+<p>&emsp;&emsp;💯 Love computer science and inspire to become a senior programmer~</p>
+<p>&emsp;&emsp;:thinking: We're making the world a better place, through constructing elegant hierarchies for maximum code reuse and extensibility~</p>
+<p>&emsp;&emsp;🌝 I don't like to write code, I just write the rules of survival in the future world~</p>
   
+<br>
 <div align="center">
+  <h3><img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40" style="vertical-align:middle;"> &nbsp; GitHub Analytics</h3>
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </div>
-
+<br>
 <div align="center">
   <a href="https://github.com/CrazyCatZhang">
      <img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CrazyCatZhang&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
      <img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CrazyCatZhang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" />
+  <br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=CrazyCatZhang&theme=react-dark&hide_title=true" />
   </a>
 </div>
 
+<br>
 <div align="center">
+  <h3><img src="https://media4.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif?cid=ecf05e473w3yyq5ltckpc4c6vr4jf9avvh9uao2eswa4v9rk&rid=giphy.gif&ct=s" width="40" style="vertical-align:middle;">  &nbsp; Skills</h3>
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </div>
 
@@ -69,6 +62,5 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=idea,vscode,atom,codepen,postman,vim,stackoverflow,docker,kubernetes,github,ai,ps" /><br>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
-  <br>
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" />
+  
 </div>

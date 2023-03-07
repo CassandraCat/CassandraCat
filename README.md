@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/CrazyCatZhang">
-    <img src="https://github-readme-stats.vercel.app/api?username=CrazyCatZhang&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrazyCatZhang&theme=github-dark-blue&hide_border=true" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=CrazyCatZhang&show_icons=true&theme=github_dark&hide_border=true" />
+    <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=CrazyCatZhang&theme=github-dark-blue&hide_border=true" />
   </a>
 </div>
 

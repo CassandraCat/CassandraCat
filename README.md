@@ -73,8 +73,10 @@
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </div>
 
-<br>
 <div align="center">
+  <img src="profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  
+  <br>
   <img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
   <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card"/>
 </div>

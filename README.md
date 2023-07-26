@@ -40,7 +40,7 @@
   <img width="867px" src="profile-3d-contrib/profile-night-rainbow.svg" />
   <br>
   <br>
-  <img width="867px" src="https://github-readme-activity-graph.cyclic.app/graph?username=CrazyCatZhang&theme=react-dark&hide_title=true" />
+<!--   <img width="867px" src="https://github-readme-activity-graph.cyclic.app/graph?username=CrazyCatZhang&theme=react-dark&hide_title=true" /> -->
   </a>
 </div>
 

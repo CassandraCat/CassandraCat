@@ -3,7 +3,13 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hello I'm CatZhang!&center=true&size=27" alt="Typing SVG" />
   </div>
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="opacity: 0;"/>    
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+
+  <div>&nbsp;</div>
   
   <a href="https://www.youtube.com/channel/UCnObkaz4PSffWw9V2iYpRMQ"><img width="60px" alt="Youtube" title="Youtube" src="youtube.svg"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -20,9 +26,9 @@
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> 
 </div>
 <br>
-<p>&emsp;&emsp;:octocat: Hello, I'm CatZhang~</p>
+<p>&emsp;&emsp;🙋 Hello, I'm CatZhang~</p>
 <p>&emsp;&emsp;💯 Love computer science and inspire to become a senior programmer~</p>
-<p>&emsp;&emsp;:thinking: We're making the world a better place, through constructing elegant hierarchies for maximum code reuse and extensibility~</p>
+<p>&emsp;&emsp;👏 We're making the world a better place, through constructing elegant hierarchies for maximum code reuse and extensibility~</p>
 <p>&emsp;&emsp;🌝 I don't like to write code, I just write the rules of survival in the future world~</p>
   
 <br>

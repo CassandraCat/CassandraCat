@@ -33,7 +33,7 @@
   
 <br>
 <div align="center">
-  <h3>
+  <h3 style="display:flex;align-items: center;justify-content:center;">
     <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40" style="vertical-align: middle;">
     &nbsp;GitHub Analytics
   </h3>

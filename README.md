@@ -33,7 +33,10 @@
   
 <br>
 <div align="center">
-  <h3><img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40" style="vertical-align:middle;"> &nbsp; GitHub Analytics</h3>
+    <div style="text-align: center;">
+      <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40" style="vertical-align: middle; display: inline-block;">
+      <h3 style="display: inline-block; vertical-align: middle;">GitHub Analytics</h3>
+    </div>
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </div>
 <br>
